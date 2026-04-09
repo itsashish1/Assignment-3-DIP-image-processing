@@ -1,4 +1,4 @@
-# Digital Image Processing (DIP) - Image Processing Pipeline
+# Assignment 3: Digital Image Processing (DIP) - Image Processing Pipeline
 
 A comprehensive image processing project implementing key DIP concepts including image compression, segmentation, morphological processing, and analysis.
 
